@@ -92,4 +92,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For questions or issues, please contact [msyednabiel@gmail.com](mailto:msyednabiel@gmail.com).
 
-```
