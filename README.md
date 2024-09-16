@@ -21,7 +21,7 @@ This is a simple web application built using Flask that allows users to log in u
 
    ```bash
    git clone https://github.com/msnabiel/Google-Auth.git
-   cd google-Auth
+   cd Google-Auth
    ```
 
 2. **Set Up a Google Cloud Project**
