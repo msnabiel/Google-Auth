@@ -20,7 +20,7 @@ This is a simple web application built using Flask that allows users to log in u
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/google-Auth.git
+   git clone https://github.com/msnabiel/Google-Auth.git
    cd google-Auth
    ```
 
